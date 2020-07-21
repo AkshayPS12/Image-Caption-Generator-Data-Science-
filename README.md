@@ -1,7 +1,7 @@
 # Image-Caption-Generator-Data-Science-
 Model used was [ResNET50](https://iq.opengenus.org/resnet50-architecture/) and was trained over RNNs/LSTMs. 
 
-The model was trained on Flickr8K image data set. 
+The model was trained on [Flickr8K](https://www.kaggle.com/shadabhussain/flickr8k) image data set. 
 
 A custom Data Generator was enforced during training which had the work of maintaining RAM usage. 
 
